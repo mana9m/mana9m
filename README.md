@@ -3,7 +3,7 @@
 I'm a student passionate about Python, Data Analysis, and Artificial Intelligence. I'm currently on a journey to master Machine Learning and build smart, data-driven solutions.
 
 ### 🧠 About Me
-- 🎓 I'm currently a student studying python and data analisis (I am a high school student, I am learning computer sience out of school).
+- 🎓 I'm currently a student studying python and Data Analisis (I am a high school student, I am learning Computer Sience out of school).
 - 🐍 I am actively learning and building with **Python**.
 - 📊 My goal is to become proficient in **Data Analysis** and **Machine Learning**.
 - 🤖 I love exploring the world of **AI** and understanding how algorithms learn from data.
